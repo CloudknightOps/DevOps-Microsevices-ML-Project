@@ -15,9 +15,9 @@ My project goal is to operationalize this working, machine learning microservice
 * Improved the log statements in the source code for this application
 * Configured Kubernetes and create a Kubernetes cluster
 * Deployed a container using Kubernetes and make a prediction
-* Uploaded a complete Github repo with CircleCI to indicate that your code has been tested
+* Uploaded a complete Github repo with CircleCI to indicate that my Code has been tested
 
-Y
+
 
 **The final implementation of the project showcases my abilities to operationalize production microservices.**
 
